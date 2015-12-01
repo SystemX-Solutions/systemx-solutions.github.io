@@ -2,7 +2,8 @@
 layout: post
 title:  "Simple, Containerized CI/CD with Devlab + CircleCI"
 date:   2015-10-26 10:00:00
-categories: docker devlab nodejs
+categories: docker devlab ci cd
+cover: /assets/images/covers/container_ships.jpg
 ---
 
 Parity is important; not only in ensuring all of your environments are going to always run the same, but it can be a time-saver and prevent duplication of build/deploy code as well.

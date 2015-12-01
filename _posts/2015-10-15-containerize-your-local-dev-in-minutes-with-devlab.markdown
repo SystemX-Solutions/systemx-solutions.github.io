@@ -3,6 +3,7 @@ layout: post
 title:  "Containerize Your Local Dev in Minutes with DevLab"
 date:   2015-10-15 10:00:00
 categories: docker devlab nodejs
+cover: /assets/images/covers/containers.png
 ---
 
 >[DevLab](https://github.com/TechnologyAdvice/DevLab) is a utility that allows you to easily containerize your development workflow using Docker. Simply put; it's like having a cleanroom for all of your development processes which contains services (like databases) without needing to setup and maintain these environments manually.
