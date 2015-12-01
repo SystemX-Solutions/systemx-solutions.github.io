@@ -9,6 +9,7 @@ paginate: 5
 baseurl: /
 domain_name: 'http://www.fluidbyte.net'
 google_analytics: 'UA-XXXXXXXX-X'
+permalink: pretty
 
 # Details for the RSS feed generator
 url:            'http://www.fluidbyte.net'
