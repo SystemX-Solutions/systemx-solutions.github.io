@@ -1,0 +1,17 @@
+name: fluidbyte
+description: ramblings of a code-driven madman
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 5
+baseurl: /
+domain_name: 'http://www.fluidbyte.net'
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'http://www.fluidbyte.net'
+author:         'fluidbyte'
+
+gems: [jekyll-paginate]
